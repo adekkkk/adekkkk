@@ -16,8 +16,8 @@
 
 ## Languages I’m currently learning
 - <img align="left" alt="C Programming Icon" width="24px" height="24px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png"/> **C**<br>
-- C#
-- <img align="left" alt="C Programming Icon" width="24px" height="24px" src="/img/ruby.png"/> Ruby
+- <img align="left" alt="C Sharp Programming Icon" width="24px" height="24px" src="/img/csharp.png"/> **C#**<br>
+- <img align="left" alt="Ruby Programming Icon" width="24px" height="24px" src="/img/ruby.png"/> **Ruby**<br>
 
 <!--
 **adekkkk/adekkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
