@@ -5,7 +5,7 @@
 ## Who am I? :running:
 - :blush: My name is Adrian :)
 - :question: I am currently studying Computer Science at University of Derby!
-- 🔭 I’m currently working on bettering myself by continous process of learning!
+- 🔭 I’m currently working on bettering myself by continuous process of learning!
 - ⚡ Fun fact: I'm a avid gamer and climber. Also I do manage to hike a lot too! :sunrise_over_mountains:
 - :speech_balloon: I speak two languages fluently Polish and English!
 
@@ -18,18 +18,3 @@
 - <img align="left" alt="C Programming Icon" width="24px" height="24px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png"/> **C**<br>
 - <img align="left" alt="C Sharp Programming Icon" width="24px" height="24px" src="/img/csharp.png"/> **C#**<br>
 - <img align="left" alt="Ruby Programming Icon" width="24px" height="24px" src="/img/ruby.png"/> **Ruby**<br>
-
-<!--
-**adekkkk/adekkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
