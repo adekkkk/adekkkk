@@ -4,7 +4,7 @@
 
 ## Who am I? :running:
 - :blush: My name is Adrian :)
-- :question: I am currently studying Computer Science at University of Derby!
+- :question: I'm studying Computer Science at University of Derby!
 - 🔭 I’m currently working on bettering myself by continuous process of learning!
 - ⚡ Fun fact: I'm a avid gamer and climber. Also I do manage to hike a lot too! :sunrise_over_mountains:
 - :speech_balloon: I speak two languages fluently Polish and English!
