@@ -13,6 +13,7 @@
 - Pass all semesters successfully! 
 - Land an internship or a part time job within the programming industry!
 - Gain high level proficiency with languages that I'm currently learning!
+- Start working on learning PHP, databases and web application development to excel in year 2 of University!
 
 ## Languages I’m currently learning
 - <img align="left" alt="C Programming Icon" width="24px" height="24px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png"/> **C**<br>
